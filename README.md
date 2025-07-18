@@ -1,7 +1,9 @@
 Building Your Own AI Security Agent
+
 A few months ago, I started building an autonomous AI agent that could think and act like a security expert. Today, I'm sharing the complete journey, the architecture decisions, security considerations and lessons learned.
 
 Why Build Your Own AI Security Agent?
+
 As a Cyber Security Engineer, I saw a gap where traditional tools couldn't handle domain-specific threats fast enough. I started building an autonomous AI agent that could think and act like a security expert. Today, I'm sharing the complete journey - the architecture decisions, security considerations and lessons learned.
 
 Core Questions:
