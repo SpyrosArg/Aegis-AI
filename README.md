@@ -46,14 +46,17 @@ UI/UX + Security Features
 
 Step 7: The Secure Autonomous Decision Engine
 Decision Framework with Safety Rails
+
 <img width="700" height="412" alt="image" src="https://github.com/user-attachments/assets/79cce751-d52c-4089-83d5-d7bdeaa907f8" />
 
 Step 8: Production Security Challenges
 Security Operations for AI
+
 <img width="700" height="489" alt="image" src="https://github.com/user-attachments/assets/3e30bf7e-0a47-401f-9c66-0162c40ffab5" />
 
 Tools & Resources
 Security-Enhanced Stack
+
 <img width="700" height="403" alt="image" src="https://github.com/user-attachments/assets/34328be0-b135-468e-87fd-fe860b908cd6" />
 
 Building an AI agent isn't just about intelligence, it's about building responsible, secure systems that can be trusted with critical decisions.
