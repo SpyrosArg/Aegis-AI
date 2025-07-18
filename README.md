@@ -18,30 +18,38 @@ Security Questions:
 
 Step 1: Choose Your Architecture (With Security in Mind)
 The LLM Decision Tree
+
 <img width="700" height="518" alt="image" src="https://github.com/user-attachments/assets/749432d1-eb0c-4ae4-ae68-8e5fc1fe5335" />
 
 Secure Frontend Architecture
+
 <img width="700" height="309" alt="image" src="https://github.com/user-attachments/assets/cf9f81a3-83c2-4e9b-907d-63d77844445a" />
 
 Secure Backend Architecture
+
 <img width="700" height="314" alt="image" src="https://github.com/user-attachments/assets/d7797607-6cec-4c37-a45e-3a8e8cab063d" />
 
 Step 2: Secure Data Collection & Preparation
+
 <img width="700" height="316" alt="image" src="https://github.com/user-attachments/assets/4c45be95-e571-47da-90f3-96459a56fb63" />
 
 Step 3: Building the Secure Agent Brain
 Model Selection + Security
+
 <img width="700" height="355" alt="image" src="https://github.com/user-attachments/assets/f990d816-f73b-444e-9937-a51687a1a813" />
 
 The Secure Agent Loop
+
 <img width="700" height="423" alt="image" src="https://github.com/user-attachments/assets/f9819c66-8d84-4c50-b3da-a6705880de70" />
 
 Step 4: Secure RAG Implementation
 RAG Architecture + Security
+
 <img width="700" height="297" alt="image" src="https://github.com/user-attachments/assets/6cdd81de-50ae-4ed2-9154-1dd43b1cc96f" />
 
 Step 5: Building the Secure Interface
 UI/UX + Security Features
+
 <img width="700" height="422" alt="image" src="https://github.com/user-attachments/assets/4ee4eba9-5536-4bd3-bbd4-75eb76d3747e" />
 
 Step 7: The Secure Autonomous Decision Engine
