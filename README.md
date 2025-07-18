@@ -1,22 +1,22 @@
-Building Your Own AI Security Agent
+**Building Your Own AI Security Agent**
 
 A few months ago, I started building an autonomous AI agent that could think and act like a security expert. Today, I'm sharing the complete journey, the architecture decisions, security considerations and lessons learned.
 
-Why Build Your Own AI Security Agent?
+**Why Build Your Own AI Security Agent?**
 
 As a Cyber Security Engineer, I saw a gap where traditional tools couldn't handle domain-specific threats fast enough. I started building an autonomous AI agent that could think and act like a security expert. Today, I'm sharing the complete journey - the architecture decisions, security considerations and lessons learned.
 
 Core Questions:
-•	What decisions will it make autonomously?
-•	What's the cost of being wrong?
-•	How fast must it respond?
-•	What domain expertise does it need?
+- What decisions will it make autonomously?
+- What's the cost of being wrong?
+- How fast must it respond?
+- What domain expertise does it need?
 
 Security Questions:
-•	What's the blast radius of a compromise?
-•	How do we prevent adversarial use?
-•	What are the compliance requirements?
-•	How do we maintain audit trails?
+- What's the blast radius of a compromise?
+- How do we prevent adversarial use?
+- What are the compliance requirements?
+- How do we maintain audit trails?
 
 Step 1: Choose Your Architecture (With Security in Mind)
 The LLM Decision Tree
