@@ -18,7 +18,7 @@ Security Questions:
 
 Step 1: Choose Your Architecture (With Security in Mind)
 The LLM Decision Tree
-<img width="900" height="518" alt="image" src="https://github.com/user-attachments/assets/749432d1-eb0c-4ae4-ae68-8e5fc1fe5335" />
+<img width="700" height="518" alt="image" src="https://github.com/user-attachments/assets/749432d1-eb0c-4ae4-ae68-8e5fc1fe5335" />
 
 Secure Frontend Architecture
 <img width="900" height="309" alt="image" src="https://github.com/user-attachments/assets/cf9f81a3-83c2-4e9b-907d-63d77844445a" />
