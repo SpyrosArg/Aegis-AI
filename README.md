@@ -42,7 +42,7 @@ Model Selection + Security
 
 The Secure Agent Loop
 
-<img width="700" height="423" alt="image" src="https://github.com/user-attachments/assets/f9819c66-8d84-4c50-b3da-a6705880de70" />
+<img width="700" height="392" alt="3" src="https://github.com/user-attachments/assets/54a0e5f3-0799-42ff-a4e1-1fa0e8c10cc3" />
 
 **Step 4: Secure RAG Implementation**
 RAG Architecture + Security
